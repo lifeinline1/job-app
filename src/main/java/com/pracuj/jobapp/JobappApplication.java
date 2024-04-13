@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JobappApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Hello Git");
 		SpringApplication.run(JobappApplication.class, args);
 	}
 
